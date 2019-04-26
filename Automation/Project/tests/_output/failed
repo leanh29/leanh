@@ -1,0 +1,4 @@
+tests\acceptance\SourceCest.php:UernameWithSpaceInside
+tests\acceptance\SourceCest.php:UsernameWithSpaceOutside
+tests\acceptance\SourceCest.php:countinueWithGoogle
+tests\acceptance\SourceCest.php:checkLimitedInvalidPassword
